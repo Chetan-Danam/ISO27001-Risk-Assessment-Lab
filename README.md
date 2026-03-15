@@ -1,4 +1,19 @@
-# ISO 27001 Risk Assessment & Risk Register Lab
+# ISO 27001 Risk Assessment & Risk Register Lab  
+## Scenario
+
+A simulated risk assessment was performed for a mid-size healthcare SaaS company called **ABC Healthcare Pvt Ltd**.
+
+Company profile:
+
+• 150 employees
+• Cloud-hosted web application
+• Customer database storing patient information
+• Remote employees using company laptops
+
+The objective of the assessment was to identify critical assets, evaluate security threats and vulnerabilities, calculate risk scores, and define mitigation controls aligned with **ISO/IEC 27001:2022**.
+
+The risk register, asset inventory, and control mapping documents in this repository represent the outcome of that assessment.
+
 
 This project demonstrates a practical implementation of an ISO/IEC 27001:2022 risk assessment process.
 
